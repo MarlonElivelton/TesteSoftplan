@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/20 22:47:51.000.395,=C:\Users\Marlon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/03/20 22:49:04.000.500,C:\Users\Marlon\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Marlon\Documents\TesteSoftplan\ProvaDelphiApp.pas</Transaction>
+    <Transaction>2021/03/20 22:49:04.000.500,C:\Users\Marlon\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Marlon\Documents\TesteSoftplan\ProvaDelphiApp.dfm</Transaction>
+    <Transaction>2021/03/20 22:49:11.000.520,C:\Users\Marlon\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Marlon\Documents\TesteSoftplan\Project1.dproj</Transaction>
+    <Transaction>2021/03/20 22:55:40.000.726,=C:\Users\Marlon\Documents\TesteSoftplan\Unit2.pas</Transaction>
+    <Transaction>2021/03/20 22:56:23.000.975,C:\Users\Marlon\Documents\TesteSoftplan\Unit2.pas=C:\Users\Marlon\Documents\TesteSoftplan\ufTarefa2.pas</Transaction>
+    <Transaction>2021/03/20 22:56:23.000.975,C:\Users\Marlon\Documents\TesteSoftplan\Unit2.dfm=C:\Users\Marlon\Documents\TesteSoftplan\ufTarefa2.dfm</Transaction>
+    <Transaction>2021/03/20 23:05:39.000.203,=C:\Users\Marlon\Documents\TesteSoftplan\Unit3.pas</Transaction>
+    <Transaction>2021/03/20 23:05:46.000.902,C:\Users\Marlon\Documents\TesteSoftplan\Unit3.dfm=C:\Users\Marlon\Documents\TesteSoftplan\ufTarefa3.dfm</Transaction>
+    <Transaction>2021/03/20 23:05:46.000.902,C:\Users\Marlon\Documents\TesteSoftplan\Unit3.pas=C:\Users\Marlon\Documents\TesteSoftplan\ufTarefa3.pas</Transaction>
+    <Transaction>2021/03/20 23:07:22.000.000,=C:\Users\Marlon\Documents\TesteSoftplan\Unit4.pas</Transaction>
+    <Transaction>2021/03/20 23:07:28.000.639,C:\Users\Marlon\Documents\TesteSoftplan\Unit4.dfm=C:\Users\Marlon\Documents\TesteSoftplan\ufTarefa1.dfm</Transaction>
+    <Transaction>2021/03/20 23:07:28.000.639,C:\Users\Marlon\Documents\TesteSoftplan\Unit4.pas=C:\Users\Marlon\Documents\TesteSoftplan\ufTarefa1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
